@@ -1,6 +1,6 @@
 # 👨‍💻 Flavio | Desenvolvedor Front-End | Front-End Developer
 
-## 🇧🇷 Sobre mim
+🇧🇷 Sobre mim
 
 Olá! Me chamo **Flavio** e sou formado em **Desenvolvimento de Sistemas**. Tenho paixão por desenvolvimento web front-end e busco criar aplicações que unam **design funcional**, **código limpo** e **boa experiência para o usuário**.
 
@@ -33,7 +33,7 @@ Gosto de colaborar em equipe, aprender com outras pessoas e transformar ideias e
 
 🚀 **Atualmente, estou em busca de oportunidades como Desenvolvedor Front-End. Vamos conversar!**  
 
-## 🇺🇸 About Me
+🇺🇸 About Me
 
 Hello! I'm **Flavio**, a graduate in **Systems Development** with a passion for front-end web development. I strive to build applications that combine **functional design**, **clean code**, and an excellent **user experience**.
 
