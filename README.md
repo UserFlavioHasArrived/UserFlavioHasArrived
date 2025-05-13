@@ -27,7 +27,7 @@ Gosto de colaborar em equipe, aprender com outras pessoas e transformar ideias e
 ### 📫 Contato
 
 
-- [LinkedIn](https://www.linkedin.com/in/flavio-luiz-fernandes-vieira-04391731a/)]
+- [LinkedIn](https://www.linkedin.com/in/flavio-luiz-fernandes-vieira-04391731a/)
 
 ---
 
@@ -59,7 +59,7 @@ I enjoy collaborating with teams, learning from others, and turning ideas into f
 
 ### 📫 Contact
 
-- [LinkedIn](https://www.linkedin.com/in/flavio-luiz-fernandes-vieira-04391731a/)]
+- [LinkedIn](https://www.linkedin.com/in/flavio-luiz-fernandes-vieira-04391731a/)
 
 ---
 
